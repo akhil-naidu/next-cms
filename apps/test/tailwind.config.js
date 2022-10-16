@@ -7,6 +7,9 @@ module.exports = {
     './components/**/*.{js,ts,jsx,tsx}',
     '../../packages/ui/**/*.{js,ts,jsx,tsx}',
   ],
+  corePlugins: {
+    preflight: false,
+  },
 };
 
 // For some reason, adding `/ui/**/*.{js,ts,jsx,tsx}` is of no use

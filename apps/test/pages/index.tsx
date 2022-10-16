@@ -3,8 +3,7 @@ import { Button } from 'ui';
 
 const Test = () => {
   return (
-    <div className='bg-red-500'>
-      hello
+    <div className='bg-gray-100 min-h-screen'>
       <Button />
     </div>
   );
