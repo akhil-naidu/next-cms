@@ -8,11 +8,15 @@
     "lint": "eslint *.ts*"
   },
   "dependencies": {
-    "config": "workspace:*"
+    "@emotion/react": "^11.10.4",
+    "@mantine/core": "^5.5.5",
+    "@mantine/hooks": "^5.5.5",
+    "add": "^2.0.6"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
+    "config": "workspace:*",
     "eslint": "^7.32.0",
     "eslint-config-custom": "workspace:*",
     "react": "^18.2.0",
