@@ -49,8 +49,8 @@ npx create-next-app test --example with-typescript --use-pnpm
 
 6. last but not the least, configure the next.config.json as follows
 
-```json
-const withTM = require("next-transpile-modules")(["ui"]);
+```js
+const withTM = require('next-transpile-modules')(['ui']);
 
 module.exports = withTM({
   reactStrictMode: true,
