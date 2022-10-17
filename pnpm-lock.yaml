@@ -143,6 +143,7 @@ importers:
       eslint-config-custom: workspace:*
       next: latest
       react: ^18.2.0
+      react-dom: ^18.0.2
       tsconfig: workspace:*
       typescript: ^4.5.2
     dependencies:
@@ -158,6 +159,7 @@ importers:
       eslint-config-custom: link:../eslint-config-custom
       next: 12.3.1_6tziyx3dehkoeijunclpkpolha
       react: 18.2.0
+      react-dom: 18.2.0_react@18.2.0
       tsconfig: link:../tsconfig
       typescript: 4.8.4
 
