@@ -11,7 +11,7 @@
     "@emotion/react": "^11.10.4",
     "@mantine/core": "^5.5.5",
     "@mantine/hooks": "^5.5.5",
-    "add": "^2.0.6"
+    "@mantine/rte": "^5.5.5"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
@@ -20,6 +20,8 @@
     "eslint": "^7.32.0",
     "eslint-config-custom": "workspace:*",
     "react": "^18.2.0",
+    "react-dom": "^18.0.2",
+    "next": "latest",
     "tsconfig": "workspace:*",
     "typescript": "^4.5.2"
   }
