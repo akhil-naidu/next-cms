@@ -1,5 +1,5 @@
 import '../styles/globals.css';
-import { MantineProvider } from 'ui';
+import { MantineProvider } from '@mantine/core';
 
 // I'm disabling preflight in tailwindcss rather than using emotionCache
 
