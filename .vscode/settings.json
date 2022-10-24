@@ -5,6 +5,11 @@
     "source.fixAll": true,
     "source.organizeImports": true
   },
+  "eslint.packageManager": "pnpm",
+  "eslint.workingDirectories": [
+    { "pattern": "apps/*/" },
+    { "pattern": "packages/*/" }
+  ],
   "editor.cursorBlinking": "smooth",
   "editor.cursorSmoothCaretAnimation": true,
   "cSpell.words": ["editorjs", "Mantine", "nextjs", "nhost", "pnpm"]
