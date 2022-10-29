@@ -8,7 +8,7 @@ NextCMS is a `Composable Content Platform`. It is more than a CMS, and a Headles
 
 ## Motivation Behind NextCMS
 
-Traditional CMS architecture was once the standard for web development, but today companies are looking for the increased flexibility and scalability provided by headless content management systems. Learn the differences between traditional CMSes, headless CMSes, and the next generation of content management tools — API-first composable content platforms.
+Traditional CMS architecture was once the standard for web development, but today companies are looking for the increased flexibility and scalability provided by headless content management systems. Learning from the disadvantages from traditional CMSes, and headless CMSes, we are creating this next generation content management tools — API-first composable content platforms.
 
 ## What does it mean to be a Composable Content Platform
 
