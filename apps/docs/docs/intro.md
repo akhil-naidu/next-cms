@@ -2,46 +2,32 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Overview of NextCMS
 
-Let's discover **Docusaurus in less than 5 minutes**.
+NextCMS is a `Composable Content Platform`. It is more than a CMS, and a Headless CMS. It includes all the capabilities and functionalities of both the CMS and Headless CMS with extended API support.
 
-## Getting Started
+## Motivation Behind NextCMS
 
-Get started by **creating a new site**.
+Traditional CMS architecture was once the standard for web development, but today companies are looking for the increased flexibility and scalability provided by headless content management systems. Learn the differences between traditional CMSes, headless CMSes, and the next generation of content management tools — API-first composable content platforms.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## What does it mean to be a Composable Content Platform
 
-### What you'll need
+Going beyond the traditional CMS and Headless CMS architecture is our aim at NextCMS. Composable Content Platform is the next evolution of content management. Like a headless content management system, it doesn’t take the traditional approach of organizing content around pages. Instead, it centers on structured content in the form of a content model. A content model defines and organizes content into different content types, or building blocks. These content models are tailored to the needs of each organization, so that content creators aren’t stuck with the overly prescriptive page templates of a traditional CMS.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+With this we will be able to achieve the following which were not possible using the traditional CMSes
 
-## Generate a new site
+1. Unify content into a single content hub
+2. Enable collaborative workflows
+3. Increase reusability and scalability
 
-Generate a new Docusaurus site using the **classic template**.
+## What are the use cases?
 
-The classic template will automatically be added to your project after you run the command:
+- Support Portal and Knowledge base
+- Content Hub
+- Modern Stack Website
+- Agile eCommerce
+- Global Marketing and Localization
+- Digital Delivery Platform
+- Seamless API generator for Web and Mobile Applications
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+> In depth details will be added as we proceed with documentation, in later stages.

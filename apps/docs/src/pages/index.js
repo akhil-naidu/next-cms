@@ -1,9 +1,9 @@
-import React from 'react';
-import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import Layout from '@theme/Layout';
+import clsx from 'clsx';
+import React from 'react';
 
 import styles from './index.module.css';
 
@@ -19,7 +19,7 @@ function HomepageHeader() {
             className='button button--secondary button--lg'
             to='/docs/intro'
           >
-            Know more about Content Management System - 5min ⏱️
+            Know more about NextCMS - 5min ⏱️
           </Link>
         </div>
       </div>
