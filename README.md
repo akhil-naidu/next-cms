@@ -7,7 +7,7 @@
 1. prefer `nvm` to install `node`, for more info go through [this](https://github.com/nvm-sh/nvm)
 2. Local `docker desktop` or `docker` installation is mandatory
 3. `pnpm` is mandatory in this monorepo architecture, `npm install -g pnpm`
-4. Install `nhost` cli and use this [documentation](https://github.com/nvm-sh/nvm) for more info
+4. Install `nhost` cli and use this [documentation](https://docs.nhost.io/platform/cli) for more info
 
 # Initial Setup
 
